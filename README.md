@@ -2,13 +2,13 @@
 
 In early 2018, I built an 8-bit computer following [Ben Eater's tutorial](https://youtu.be/HyznrdDSSGM?feature=shared). I also made schematics for the full project. This is a compilation of the documents that survived until 2025.
 
-![Top view](images/top_view.jpg)
+![Top view](media/images/top_view.jpg)
 
 ## Schematics
 
 I made the schematics with KiCad. Only the pdfs of the schematics have survived. The actual KiCad files have perished.
 
-![Top level schematic](images/top_level.png)
+![Top level schematic](media/images/top_level.png)
 
 ## Programs
 
